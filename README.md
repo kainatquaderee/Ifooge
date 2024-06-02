@@ -1,6 +1,6 @@
 a colab notebook that is just like automatic 1111 stable diffusion
 
-{
+<html>{
   "nbformat": 4,
   "nbformat_minor": 0,
   "metadata": {
@@ -29,4 +29,4 @@ a colab notebook that is just like automatic 1111 stable diffusion
       "source": [
         "<a href=\"https://colab.research.google.com/github/kainatquaderee/Ifooge/blob/main/Ifooge.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
-    },
+    }</html>
