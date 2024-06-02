@@ -1,4 +1,5 @@
 a colab notebook that is just like automatic 1111 stable diffusion
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
